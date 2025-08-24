@@ -85,6 +85,5 @@ OUTPUT :-
 
 RESULT :-
 
-~~~
 To implement the simple substitution technique named Caesar cipher using C language is successfully completed.
-~~~
+
